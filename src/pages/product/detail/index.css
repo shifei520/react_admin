@@ -1,0 +1,8 @@
+.detail .detail-item-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+.detail .img-show img {
+  width: 148px;
+  height: 148px;
+}
